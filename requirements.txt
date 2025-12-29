@@ -1,0 +1,4 @@
+opencv-python>=4.8.0
+numpy>=1.24.0
+mss>=9.0.1  # Para captura de tela futura
+pillow>=10.0.0
